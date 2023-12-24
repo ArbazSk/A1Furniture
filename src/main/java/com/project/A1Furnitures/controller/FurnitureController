@@ -1,6 +1,0 @@
-package com.project.A1Furnitures.controller;
-
-@RestController
-public class FurnitureController {
-
-}
